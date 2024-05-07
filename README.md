@@ -1,5 +1,5 @@
 
-## " Hello world"👋
+## " Hello Everyone "👋
 - 🌟  Master in Business Analytics & AI, Skilled in management, Finance and Tech
 - 🌱 I’m currently learning what it can be done with AI, Generative AI , R, and SAS 
 - 🔍 Business and Data Analysis collaborations
